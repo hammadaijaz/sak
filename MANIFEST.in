@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include sak *.css
+recursive-include sak *.csv
+recursive-include sak *.html
+recursive-include sak *.ico
+recursive-include sak *.js
+recursive-include sak *.json
+recursive-include sak *.md
+recursive-include sak *.png
+recursive-include sak *.py
+recursive-include sak *.svg
+recursive-include sak *.txt
+recursive-exclude sak *.pyc
