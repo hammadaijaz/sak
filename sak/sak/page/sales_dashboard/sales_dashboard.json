@@ -1,0 +1,30 @@
+{
+ "content": null,
+ "creation": "2022-12-22 17:34:53.363914",
+ "docstatus": 0,
+ "doctype": "Page",
+ "icon": "",
+ "idx": 0,
+ "modified": "2022-12-22 17:34:53.363914",
+ "modified_by": "Administrator",
+ "module": "SAK",
+ "name": "sales_dashboard",
+ "owner": "Administrator",
+ "page_name": "sales_dashboard",
+ "roles": [
+  {
+   "role": "Accounts Manager"
+  },
+  {
+   "role": "Accounts User"
+  },
+  {
+   "role": "System Manager"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Sales Dashboard"
+}
